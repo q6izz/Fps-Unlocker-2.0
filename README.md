@@ -12,3 +12,6 @@ Fps Max - Саксимальный фпс апы.
 
 Путь куда нужно закинуть этот файл: C:\...\Roblox\Versions\version-номер вашей версии\
 Название папки для файла должно быть таким: ClientSettings
+
+Discord Dev Server:
+https://discord.gg/pehxFG9nnB
