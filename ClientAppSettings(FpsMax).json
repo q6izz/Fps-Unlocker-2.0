@@ -1,5 +1,6 @@
 {
   "FFlagAXAccessoryAdjustment": "True",
+  "DFIntTaskSchedulerTargetFps": "999999",
   "FFlagAddArialToLegacyContent": "False",
   "FIntDebugForceMSAASamples": "1",
   "DFFlagESGamePerfMonitorEnabled": "False",
